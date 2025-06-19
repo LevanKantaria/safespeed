@@ -46,5 +46,5 @@ Open an issue in this repository or email us directly. We appreciate your feedba
 
 ---
 
-**SafeSpeed** is developed and maintained by [Levani Kantaria](https://github.com/ylevankantaria.  
+**SafeSpeed** is developed and maintained by [Levani Kantaria](https://github.com/levankantaria.  
 Thank you for using the app and driving safely!
